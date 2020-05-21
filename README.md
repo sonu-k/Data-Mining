@@ -12,4 +12,8 @@ The attributes used for this project are ***review text*** and ***review ratings
 * Pandas
 * re
 * nltk
-* sklearn
+* scikit-learn
+## Models implemented:
+* Naive Bayes
+* Decision Trees
+* Support Vector Machine
